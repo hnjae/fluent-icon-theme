@@ -1,14 +1,48 @@
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.20637525"/>
-  </filter>
- </defs>
- <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
- <g fill-rule="evenodd">
-  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12h-31z" fill="#4caf50" style="paint-order:stroke fill markers"/>
-  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#fff" opacity=".35" style="paint-order:stroke fill markers"/>
- </g>
- <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
- <path d="m5.2916 13.229h6.3499v-5.2916h-6.3499zm0.52916-4.7624h1.0583v1.0583h-1.0583zm1.5875 0h3.7041v1.0583h-3.7041zm-1.5875 1.5875h1.0583v1.0583h-1.0583zm1.5875 0h3.7041v1.0583h-3.7041zm-1.5875 1.5875h1.0583v1.0583h-1.0583zm1.5875 0h3.7041v1.0583h-3.7041z" enable-background="new" fill="#fff"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg height="128px" viewBox="0 0 128 128" width="128px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <filter id="a" height="100%" width="100%" x="0%" y="0%">
+        <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+    </filter>
+    <mask id="b">
+        <g filter="url(#a)">
+            <rect fill-opacity="0.3" height="128" width="128"/>
+        </g>
+    </mask>
+    <clipPath id="c">
+        <rect height="152" width="192"/>
+    </clipPath>
+    <path d="m 28 8 h 50 l 30.042969 29.917969 v 74.058593 c 0 4.433594 -3.609375 8.023438 -8.042969 8.023438 h -72 c -4.433594 0 -8 -3.566406 -8 -8 v -96 c 0 -4.433594 3.566406 -8 8 -8 z m 0 0" fill="#f6f5f4"/>
+    <path d="m 78 8 v 22 c 0 4.433594 3.609375 7.921875 8.042969 7.921875 l 22 -0.003906 z m 0 0" fill="#deddda"/>
+    <g fill="#d5d3cf">
+        <g clip-path="url(#c)" mask="url(#b)" transform="matrix(1 0 0 1 -8 -16)">
+            <path d="m 42 36 h 2 v 30 h -2 z m 0 0"/>
+            <path d="m 52 36 h 2 v 30 h -2 z m 0 0"/>
+            <path d="m 68 36 h 2 v 30 h -2 z m 0 0"/>
+            <path d="m 84 58 h 2 v 8 h -2 z m 0 0"/>
+            <path d="m 100 58 h 2 v 8 h -2 z m 0 0"/>
+            <path d="m 42 64 h 60 v 2 h -60 z m 0 0"/>
+            <path d="m 42 58 h 60 v 2 h -60 z m 0 0"/>
+            <path d="m 42 52 h 28 v 2 h -28 z m 0 0"/>
+            <path d="m 42 46 h 28 v 2 h -28 z m 0 0"/>
+            <path d="m 42 40 h 28 v 2 h -28 z m 0 0"/>
+            <path d="m 42 34 h 28 v 2 h -28 z m 0 0"/>
+            <path d="m 42 114 h 60 v 2 h -60 z m 0 0"/>
+            <path d="m 42 120 h 60 v 2 h -60 z m 0 0"/>
+            <path d="m 42 126 h 60 v 2 h -60 z m 0 0"/>
+            <path d="m 42 114 h 2 v 14 h -2 z m 0 0"/>
+            <path d="m 52 114 h 2 v 14 h -2 z m 0 0"/>
+            <path d="m 68 114 h 2 v 14 h -2 z m 0 0"/>
+            <path d="m 84 114 h 2 v 14 h -2 z m 0 0"/>
+            <path d="m 100 114 h 2 v 14 h -2 z m 0 0"/>
+        </g>
+        <path d="m 34 54 h 2 v 38 h -2 z m 0 0"/>
+        <path d="m 94 90 v 2 h -60 v -2 z m 0 0"/>
+    </g>
+    <path d="m 38 68 h 6 v 20 h -6 z m 0 0" fill="#50db81"/>
+    <path d="m 46 76 h 6 v 12 h -6 z m 0 0" fill="#8f5aa0"/>
+    <path d="m 54 60 h 6 v 28 h -6 z m 0 0" fill="#fb8c14"/>
+    <path d="m 62 64 h 6 v 24 h -6 z m 0 0" fill="#e01b24"/>
+    <path d="m 70 74 h 6 v 14 h -6 z m 0 0" fill="#8f5aa0"/>
+    <path d="m 78 80 h 6 v 8 h -6 z m 0 0" fill="#4a86cf"/>
+    <path d="m 86 70 h 6 v 18 h -6 z m 0 0" fill="#f6d32d"/>
 </svg>
